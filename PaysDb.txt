@@ -1,0 +1,12 @@
+﻿United States
+US.Dollar
+1.37
+France
+Euro
+1,46
+Australie
+AUD.Dollar
+1.10
+Tunisie
+TND.Dinar
+2.30
